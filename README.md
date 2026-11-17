@@ -25,3 +25,10 @@ Abra `index.html` no navegador. Para testar todos os recursos, mantenha `CAPA.pn
 ## Observações de conteúdo
 
 A estrutura mantém as 13 partes, os assuntos apresentados no site original e a contagem anunciada de 87 capítulos. Os nomes individuais dos 87 capítulos não foram inventados: o site publicado não os exibe integralmente. A afirmação absoluta “100% Base Científica” foi substituída por uma descrição mais cuidadosa, sem prometer aumento de QI ou resultados garantidos.
+
+
+## Links oficiais Hotmart configurados
+- Checkout do e-book: https://pay.hotmart.com/V106616215L
+- Página de informações/solicitação de afiliação: https://affiliate.hotmart.com/affiliate-recruiting/view/6066C106616236
+
+O site informa que a Hotmart exige idade mínima de 18 anos ou emancipação legal para cadastro como afiliado. Compradores de 13 a 17 anos precisam de autorização dos pais ou responsáveis, conforme os Termos da Hotmart. Não remova esses avisos sem confirmar uma atualização oficial dos termos.

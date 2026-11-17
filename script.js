@@ -3,7 +3,7 @@
 
   // Cole aqui o endereço oficial do checkout. Enquanto estiver vazio, o botão
   // direciona para a seção de compra e exibe um aviso em vez de inventar um link.
-  const PURCHASE_URL = '';
+  const PURCHASE_URL = 'https://pay.hotmart.com/V106616215L';
   const STORAGE_KEY = 'mente-expansao-progresso-v1';
   const THEME_KEY = 'mente-expansao-tema-v1';
 
@@ -141,7 +141,7 @@
     purchaseButton.href = PURCHASE_URL.trim();
     purchaseButton.target = '_blank';
     purchaseButton.rel = 'noopener noreferrer';
-    purchaseHint.textContent = 'Você será direcionado ao endereço oficial de compra.';
+    purchaseHint.textContent = 'Checkout processado pela Hotmart. Confira preço, condições e detalhes antes de concluir.';
   } else {
     purchaseButton.href = '#adquirir';
     purchaseButton.addEventListener('click', event => {
